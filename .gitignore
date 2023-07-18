@@ -1,0 +1,5 @@
+.sqlx/
+.vscode/
+/target
+.env
+rocket.toml

@@ -14,7 +14,7 @@ features = ["json"]
 [dependencies.sqlx]
 version = "0.6.0"
 default-features = false
-features = ["macros", "offline", "migrate", "postgres", "bigdecimal"]
+features = ["macros", "offline", "migrate", "postgres", "bigdecimal", "time"]
 
 [dependencies.rocket_db_pools]
 version = "=0.1.0-rc.3"
